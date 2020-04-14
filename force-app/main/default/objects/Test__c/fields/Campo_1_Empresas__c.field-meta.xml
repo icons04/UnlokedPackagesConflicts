@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Campo_1_Empresas__c</fullName>
+    <description>Este campo es y siempre será de empresas</description>
+    <externalId>false</externalId>
+    <label>Campo 1 Empresas</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>TextArea</type>
+</CustomField>
